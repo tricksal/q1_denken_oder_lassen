@@ -1,5 +1,5 @@
 ---
-title: Get in Touch!
+title: Arne Magold
 layout: page
 ---
 
@@ -10,4 +10,6 @@ arne.magold@tricksal.com
 +49 179 4620 513
 
 ## LinkedIn
-...
+[Arne Magold on LinkedIn](https://www.linkedin.com/in/arne-magold/)
+
+

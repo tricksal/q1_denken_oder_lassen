@@ -6,6 +6,15 @@ author: Arne Magold
 ---
 
 # Denken oder Denken Lassen
-## Die Suche nach Grundprinzipien effektiver Mensch-KI-Kooperation
 
-In dieser Quest möchte ich herausfinden, welche grundlegenden Dinge zu beachten und zu bewerten sind, wenn man vor der Frage steht, in wie weit es sinnvoll ist, KI-gestützte Werkzeuge bei einer bestimmten Aufgabe zu verwenden, und was bei Verwendung beachtet werden sollte. Dies sollte möglichst unabhängig von Aufgaben- und Themenbereich sein.
+## Prinzipien für mehr Orientierung im Neuland KI
+
+Diese experimentelle Untersuchung ist eine Entdeckungsreise mit offenem Ausgang.
+Im Spannungsfeld zwischen neuen technischen Möglichkeiten und einem Bewusstsein für die eigene Denkfähigkeit, möchte ich im Rahmen dieser "Quest" Fragestellungen und mögliche Antworten untersuchen.
+
+Ziel ist es mehr Klarheit darüber zu bekommen, was helfen kann und was schaden könnte, wann denke ich für mich, wann mit der KI, und wann nutze ich KI als Reibungspunkt.
+
+Auf dieser Exploration möchte ich die Denkansätze, konkrete Versuche mit verschiedenen Werkzeugen und Ideen und Erkenntnisse gewinnen und mit meinem Netzwerk teilen.
+
+Sie finden alle relevanten Arbeitsergebnisse in diesem Repository.
+
