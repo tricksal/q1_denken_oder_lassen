@@ -15,4 +15,5 @@ plugins:
 # Navigation
 header_pages:
   - index.md
+  - posts.md
   - contact.md
