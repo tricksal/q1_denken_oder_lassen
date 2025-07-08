@@ -12,7 +12,9 @@ author: Arne Magold
 Diese experimentelle Untersuchung ist eine Entdeckungsreise mit offenem Ausgang.
 Im Spannungsfeld zwischen neuen technischen Möglichkeiten und einem Bewusstsein für die eigene Denkfähigkeit, möchte ich im Rahmen dieser "Quest" Fragestellungen und mögliche Antworten untersuchen.
 
-Ziel ist es mehr Klarheit darüber zu bekommen, was helfen kann und was schaden könnte, wann denke ich für mich, wann mit der KI, und wann nutze ich KI als Reibungspunkt.
+Ziel ist es mehr Klarheit darüber zu bekommen, was helfen kann und was schaden könnte. 
+Wann sollte ein Mensch auf diese angebotene Bequemlichkeit verzichten? 
+Wann und wie macht es Sinn KI zu nutzen, und was sind mögliche Folgen für den Menschen?
 
 Auf dieser Exploration möchte ich die Denkansätze, konkrete Versuche mit verschiedenen Werkzeugen und Ideen und Erkenntnisse gewinnen und mit meinem Netzwerk teilen.
 
