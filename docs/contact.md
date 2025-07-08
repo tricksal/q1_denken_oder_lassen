@@ -1,6 +1,6 @@
 ---
 title: Get in Touch!
-layout: default
+layout: page
 ---
 
 ## Email

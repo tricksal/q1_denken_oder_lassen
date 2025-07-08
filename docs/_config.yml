@@ -1,2 +1,18 @@
 theme: minima
 author: Arne Magold
+title: Denken oder Denken Lassen
+description: Eine experimentelle Untersuchung zur Mensch-KI-Kooperation
+
+# Minima theme settings
+minima:
+  skin: auto
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Navigation
+header_pages:
+  - index.md
+  - contact.md

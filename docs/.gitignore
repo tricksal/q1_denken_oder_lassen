@@ -1,0 +1,14 @@
+# Jekyll local development files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby/Bundler files
+Gemfile
+Gemfile.lock
+vendor/
+.bundle/
+
+# macOS
+.DS_Store
