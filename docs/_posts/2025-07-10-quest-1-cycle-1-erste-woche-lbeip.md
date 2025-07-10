@@ -55,7 +55,8 @@ Ich lade Sie ein hier einen Blick auf meine Arbeit zu werfen und sich zu melden,
 **Publikation:** Preprint eines Kapitels für "The Artificial Intelligence Revolution: Challenges and Opportunities" (Springer Nature, erscheint demnächst)
 
 **Verfügbarkeit:** arXiv.org und PsyArXiv für interdisziplinären Zugang
-**Download:** [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5250447]
+
+**Download:** [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5250447](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5250447)
 
 **Abstract:**
 > In an era of generative AI and ubiquitous digital tools, human memory faces a paradox: the more we offload knowledge to external aids, the less we exercise and develop our own cognitive capacities. This chapter offers the first neuroscience-based explanation for the observed reversal of the Flynn Effect—the recent decline in IQ scores in developed countries— linking this downturn to shifts in educational practices and the rise of cognitive offloading via AI and digital tools. Drawing on insights from neuroscience, cognitive psychology, and learning theory, we explain how underuse of the brain's declarative and procedural memory systems undermines reasoning, impedes learning, and diminishes productivity. We critique contemporary pedagogical models that downplay memorization and basic knowledge, showing how these trends erode long-term fluency and mental flexibility. Finally, we outline policy implications for education, workforce development, and the responsible integration of AI, advocating strategies that harness technology as a complement to – rather than a replacement for – robust human knowledge.
