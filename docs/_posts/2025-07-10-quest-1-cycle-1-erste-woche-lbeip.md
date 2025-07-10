@@ -48,7 +48,7 @@ Ich lade Sie ein hier einen Blick auf meine Arbeit zu werfen und sich zu melden,
 
 ## Quellen und Materialien
 
-### Paper: "The Memory Paradox: Why Our Brains Need Knowledge in an Age of AI"
+### Preprint: "The Memory Paradox: Why Our Brains Need Knowledge in an Age of AI"
 
 **Autoren:** Barbara Oakley, M. Johnston, K.-Z. Chen, E. Jung, T. Sejnowski (2025)
 
@@ -62,8 +62,6 @@ Ich lade Sie ein hier einen Blick auf meine Arbeit zu werfen und sich zu melden,
 > In an era of generative AI and ubiquitous digital tools, human memory faces a paradox: the more we offload knowledge to external aids, the less we exercise and develop our own cognitive capacities. This chapter offers the first neuroscience-based explanation for the observed reversal of the Flynn Effect—the recent decline in IQ scores in developed countries— linking this downturn to shifts in educational practices and the rise of cognitive offloading via AI and digital tools. Drawing on insights from neuroscience, cognitive psychology, and learning theory, we explain how underuse of the brain's declarative and procedural memory systems undermines reasoning, impedes learning, and diminishes productivity. We critique contemporary pedagogical models that downplay memorization and basic knowledge, showing how these trends erode long-term fluency and mental flexibility. Finally, we outline policy implications for education, workforce development, and the responsible integration of AI, advocating strategies that harness technology as a complement to – rather than a replacement for – robust human knowledge.
 
 **Warum relevant für Quest 1:** Das Paper liefert die neurowissenschaftliche Grundlage für die zentrale Frage meiner Quest: "Denken oder Denken lassen?". Es zeigt auf, dass die zunehmende Auslagerung kognitiver Prozesse an KI-Tools paradoxerweise unsere eigenen kognitiven Fähigkeiten schwächt - genau das Spannungsfeld, das ich in meiner Quest erkunden möchte.
-
-**Besonderheit:** Die Autoren nutzten selbst KI-Tools (ChatGPT, Claude, Scite.ai) zur Literaturrecherche und Textverbesserung - ein Meta-Beispiel für den bewussten Einsatz von KI als Werkzeug.
 
 **NotebookLM Audio-Zusammenfassung:**
 - **URL:** [https://notebooklm.google.com/notebook/6eae5e50-c1d7-4910-9008-dffe56d5f106/audio](https://notebooklm.google.com/notebook/6eae5e50-c1d7-4910-9008-dffe56d5f106/audio)
