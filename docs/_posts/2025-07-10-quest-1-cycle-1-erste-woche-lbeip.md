@@ -114,6 +114,8 @@ Ich lade Sie ein hier einen Blick auf meine Arbeit zu werfen und sich zu melden,
 
 **Publikation:** Forbes, Juli 2025
 
+**Link:** [https://www.forbes.com/sites/pialauritzen/2025/07/06/from-existential-threat-to-hope-a-philosophers-guide-to-ai/](https://www.forbes.com/sites/pialauritzen/2025/07/06/from-existential-threat-to-hope-a-philosophers-guide-to-ai/)
+
 **Kernaussage:**
 > Der Artikel fordert dazu auf, die gängige Diskussion über „gute“ oder „böse“ KI zu überwinden. Statt KI als neutrales Werkzeug zu betrachten, entlarvt Lauritzen (unter Berufung auf Nietzsche und Heidegger) Technologie als eine Kraft, die uns unhinterfragte Werte wie Geschwindigkeit und Effizienz aufzwingt. Die wahre Aufgabe besteht darin, unsere Beziehung zur Technologie selbst zu hinterfragen und zu gestalten, anstatt uns auf die Regulierung der Technologie zu fokussieren.
 
