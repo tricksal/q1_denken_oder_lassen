@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Quest 1 (Cycle 1): Die erste Woche mit LBEiP - Raus aus dem Versteck, rein in die Sichtbarkeit"
+title: "Quest 1, Cycle 1: Kognitives Offloading und das Verhältnis zu Technologie"
 date: 2025-07-10 09:30:00 +0200
 author: Arne Magold
-categories: [quest, lbeip, persönlich]
+categories: [quest1, lbeip]
 tags: [framework, linkedin, sichtbarkeit, lernen, ki, memory-paradox]
-excerpt: "Die erste Woche meiner ersten Quest mit dem LBEiP Framework - ein Schritt aus der Sicherheit in die Sichtbarkeit und was ich dabei über Lernen, Gedächtnis und die Beziehung zwischen Mensch und Technologie gelernt habe."
+excerpt: "Kognitives Offloading und unser Verhältnis zu Technologie: Warum es heute wichtiger denn je ist, bewusst zu entscheiden, wann wir selbst denken – und wann wir Technologie für uns denken lassen."
 ---
 
 # {{ page.title }}
@@ -195,10 +195,10 @@ Die Strukturen entstehen hier gerade, und ich merke wieviel einfacher bestimmte 
 
 ### 2. Look Out For Barriers
 
-**Prüfe bei Hindernissen:**
-- Würdest du davon profitieren, es zu entfernen?
+**Checke bei Hindernissen in Deiner Arbeit:**
+- Profitierst Du maßgeblich davon, es aus dem Weg zu räumen?
 - Liegt es außerhalb deiner Expertise?
-- **Dann nutze KI dafür** (aber prüfe erst, ob KI es kann)
+- falls ja: **Nutze KI dafür** (aber prüfe erst, ob KI es kann)
 
 
 ### 3. Sei intentional bei deiner Expertise
