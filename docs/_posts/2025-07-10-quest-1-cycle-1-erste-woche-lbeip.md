@@ -229,5 +229,3 @@ Details folgen...
 
 *Quest 1 (Cycle 1) - Woche 1 abgeschlossen am {{ page.date | date: "%d.%m.%Y" }}*
 
-**Nächste Schritte:**
-[_Konkrete nächste Schritte für die Fortsetzung der Quest_]
